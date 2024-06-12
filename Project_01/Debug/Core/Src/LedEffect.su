@@ -1,0 +1,10 @@
+../Core/Src/LedEffect.c:48:6:LedEffectStop	24	static
+../Core/Src/LedEffect.c:57:6:LedEffectStart	32	static
+../Core/Src/LedEffect.c:65:6:LedEffectAction1	16	static
+../Core/Src/LedEffect.c:74:6:LedEffectAction2	8	static
+../Core/Src/LedEffect.c:91:6:LedEffectAction3	8	static
+../Core/Src/LedEffect.c:103:6:LedEffectAction4	8	static
+../Core/Src/LedEffect.c:117:13:TurnOnEvenLeds	16	static
+../Core/Src/LedEffect.c:132:13:TurnOnOddLeds	16	static
+../Core/Src/LedEffect.c:147:13:LedControl	24	static
+../Core/Src/LedEffect.c:156:13:LedTurnOff	16	static

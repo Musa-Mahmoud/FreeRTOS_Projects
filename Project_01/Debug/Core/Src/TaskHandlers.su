@@ -1,0 +1,12 @@
+../Core/Src/TaskHandlers.c:55:6:MenuTask	40	static
+../Core/Src/TaskHandlers.c:108:6:LEDTask	40	static
+../Core/Src/TaskHandlers.c:176:6:RTCTask	40	static
+../Core/Src/TaskHandlers.c:229:6:CmdHandlerTask	40	static
+../Core/Src/TaskHandlers.c:245:6:PrintTask	32	static
+../Core/Src/TaskHandlers.c:258:13:ProcessCommand	24	static
+../Core/Src/TaskHandlers.c:279:13:ExtractCommand	24	static
+../Core/Src/TaskHandlers.c:302:16:u8StrToNum	24	static
+../Core/Src/TaskHandlers.c:317:13:RtcMenuHandler	32	static
+../Core/Src/TaskHandlers.c:361:13:RtcTimeCfgHandler	32	static
+../Core/Src/TaskHandlers.c:424:13:RtcDateCfgHandler	32	static
+../Core/Src/TaskHandlers.c:488:13:RtcReportingHandler	40	static
